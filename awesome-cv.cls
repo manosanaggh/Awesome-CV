@@ -256,7 +256,7 @@
 \def\@photoalign{left}
 
 % Define writer's name
-% Usage: \name{<firstname>}{<lastname>}
+ %\name{Emmanouil}{Anagnostakis}
 % Usage: \firstname{<firstname>}
 % Usage: \lastname{<lastname>}
 % Usage: \familyname{<familyname>}
