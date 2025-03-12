@@ -1,0 +1,20 @@
+Dear Hiring Managers,
+
+I am writing to express my keen interest in Junior Engineer at Irdeto. With a strong background in computer science, research, and software engineering, I am eager to apply my expertise to contribute meaningfully to your team.
+
+During my academic journey at the University of Crete, where I earned both my B.Sc. and M.Sc. in Computer Science, I focused extensively on runtime systems, compilers, and big data analytics. My research at the Computer Architecture and VLSI Systems (CARV) Laboratory at ICS-FORTH allowed me to develop innovative solutions in garbage collection algorithms and analyze server throughput for managed big data analytics frameworks. These experiences have honed my problem-solving skills and deepened my understanding of high-performance computing and memory management.
+
+Professionally, my tenure as a Compiler Engineer at VRULL GmbH further solidified my expertise in low-level optimizations and performance tuning. Working on GCC and LLVM backends, I implemented vendor-specific optimizations for AArch64/ARM64 architectures and contributed patches to mainline projects. These experiences have equipped me with the technical acumen and adaptability required for tackling complex system-level challenges.
+
+Beyond research and industry experience, I have actively contributed to academia as a teaching assistant for introductory computer science and managed runtime systems courses. Guiding students through tutorials and designing assignments has refined my ability to communicate complex concepts effectively.
+
+I am particularly excited about the opportunity to join Irdeto because of its commitment to innovation in cybersecurity. With my technical proficiency in C, C++, and Java, along with my expertise in performance tuning and parallelism, I am confident in my ability to contribute effectively to your team’s objectives.
+
+I welcome the opportunity to further discuss how my skills and experiences align with your needs. Thank you for your time and consideration.
+
+Best regards,
+
+Emmanouil Anagnostakis
+Email: manos.anagnostakis@hotmail.com
+LinkedIn: https://www.linkedin.com/in/manos-anagnostakis-1b0b441a2
+GitHub: https://github.com/manosanaggh

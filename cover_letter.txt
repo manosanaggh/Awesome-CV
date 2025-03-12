@@ -1,0 +1,18 @@
+﻿Dear Hiring Managers,
+
+I am excited to apply for the R&D Engineer/C++ position at Synthflow AI. With a strong background in computer science, compiler engineering, and performance optimization, I am eager to bring my expertise to your team.
+
+My academic and research experiences at the University of Crete and the Computer Architecture and VLSI Systems (CARV) Laboratory at ICS-FORTH have provided me with a deep understanding of runtime systems, memory management, and big data analytics. My work on garbage collection algorithms and server throughput analysis has strengthened my analytical and problem-solving skills.
+
+Professionally, I have honed my expertise as a Compiler Engineer at VRULL GmbH, where I worked on GCC and LLVM backends, developing optimizations for AArch64/ARM64 architectures. Contributing patches to mainline projects and implementing vendor-specific enhancements have allowed me to refine my skills in low-level programming and performance tuning.
+
+Additionally, my experience as a teaching assistant at the University of Crete has equipped me with strong communication and collaboration skills, enabling me to work effectively in team environments and mentor others.
+
+I am particularly drawn to Synthflow AI because of its commitment to innovation in AI. I am confident that my technical proficiency in C, C++, Java and performance engineering and the solid knowledge of HTML, CSS and JavaScript will allow me to make meaningful contributions to your team.
+
+I welcome the opportunity to discuss how my skills align with your needs. Thank you for your time and consideration.
+
+Best regards,
+
+Emmanouil Anagnostakis
+github.com/manosanaggh
