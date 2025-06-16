@@ -6,7 +6,7 @@ Dear ---,
 
 I am writing to express my interest in the DevOps/Cloud Engineer position at your company. With solid experience in modern cloud technologies, automation, and infrastructure management, I am confident that I can contribute effectively to the development and reliability of your services.
 
-Throughout my professional journey, I have gained hands-on experience with tools and platforms such as Kubernetes, Docker, AWS, and CI/CD pipelines, alongside system administration and scripting skills. My technical expertise, combined with a methodical approach and problem-solving mindset, enables me to support complex projects and optimize infrastructure processes.
+Throughout my professional journey, I have gained hands-on experience with tools and platforms such as Kubernetes, Docker, AWS, CI/CD pipelines, Prometheus, Graphana, Web Scraping and Virtualization, alongside system administration and scripting skills. My technical expertise, combined with a methodical approach and problem-solving mindset, enables me to support complex projects and optimize infrastructure processes.
 
 Additionally, I possess strong teamwork and communication skills, essential for collaborating effectively with development teams and business units to ensure seamless project delivery aligned with company goals.
 
