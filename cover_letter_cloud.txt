@@ -2,7 +2,7 @@ Emmanouil Anagnostakis
 LinkedIn Profile
 manos.anagnostakis97@gmail.com
 
-Dear ---,
+Dear Hiring Managers,
 
 I am writing to express my interest in the DevOps/Cloud Engineer position at your company. With solid experience in modern cloud technologies, automation, and infrastructure management, I am confident that I can contribute effectively to the development and reliability of your services.
 
