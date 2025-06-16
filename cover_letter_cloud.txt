@@ -1,0 +1,18 @@
+Emmanouil Anagnostakis
+LinkedIn Profile
+manos.anagnostakis97@gmail.com
+
+Dear ---,
+
+I am writing to express my interest in the DevOps/Cloud Engineer position at your company. With solid experience in modern cloud technologies, automation, and infrastructure management, I am confident that I can contribute effectively to the development and reliability of your services.
+
+Throughout my professional journey, I have gained hands-on experience with tools and platforms such as Kubernetes, Docker, AWS, and CI/CD pipelines, alongside system administration and scripting skills. My technical expertise, combined with a methodical approach and problem-solving mindset, enables me to support complex projects and optimize infrastructure processes.
+
+Additionally, I possess strong teamwork and communication skills, essential for collaborating effectively with development teams and business units to ensure seamless project delivery aligned with company goals.
+
+I am excited about the opportunity to contribute to your team and further develop my skills in an environment that fosters innovation and technological advancement.
+
+Thank you for considering my application. I look forward to the possibility of discussing how I can add value to your organization.
+
+Best regards,
+Emmanouil Anagnostakis
